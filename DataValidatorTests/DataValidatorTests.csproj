@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataValidator\DataValidator.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\DataValidator.csproj" />
   </ItemGroup>
 
 </Project>
