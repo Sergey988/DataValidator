@@ -21,8 +21,8 @@ public class DataValidatorTest
     public void AllDataIsValid()
     {
         var validationItems = DataConditions.ValidationItems;
-        var validator = new BaseValidator(typeof(InputData), _inputData, validationItems);
-        
+        _ = new BaseValidator(typeof(InputData), _inputData, validationItems);
+
         Assert.True(true);
     }
     
