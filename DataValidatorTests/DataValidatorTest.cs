@@ -1,4 +1,3 @@
-using DataValidator;
 using DataValidatorTests.TestData;
 using Xunit;
 
