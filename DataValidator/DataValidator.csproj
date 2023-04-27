@@ -4,10 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Title>Data Validator</Title>
+    <Title>The Poolz Data Validator</Title>
     <Authors>ThePoolz</Authors>
     <Description>Reusable object validation with customizable rules</Description>
-    <PackageProjectUrl>https://www.nuget.org/packages/DataValidator</PackageProjectUrl>
+    <PackageProjectUrl>https://www.nuget.org/packages/ThePoolz.DataValidator</PackageProjectUrl>
+    <PackageId>ThePoolz.DataValidator</PackageId>
   </PropertyGroup>
 
 </Project>
