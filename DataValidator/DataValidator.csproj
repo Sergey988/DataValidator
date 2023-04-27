@@ -9,6 +9,15 @@
     <Description>Reusable object validation with customizable rules</Description>
     <PackageProjectUrl>https://www.nuget.org/packages/ThePoolz.DataValidator</PackageProjectUrl>
     <PackageId>ThePoolz.DataValidator</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
